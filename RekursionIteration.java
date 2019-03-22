@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
  * Kom fram till detta genom att testa mig fram.
  * */
 public class RekursionIteration {
-
+	// WOAH DENNA KOMMENTAR KOMMER HAMNA I GIT???
 	public static long rekursion(int num) {
 
 		if (num == 1) {
